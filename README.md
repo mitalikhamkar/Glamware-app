@@ -44,15 +44,7 @@ Glamware solves this by providing a **virtual try-on experience**, helping users
 - **Database:** MongoDB
 - **Storage:** AsyncStorage
 - **3D Rendering:** GLB Models
-
----
-
-## 📂 Project Structure
-
-- 🔗 Backend: https://github.com/mitalikhamkar/glamware-backend  
-- 🎨 3D Assets: https://github.com/mitalikhamkar/glamware-assets  
-
----
+  
 
 ## ⚙️ Project Structure
 
