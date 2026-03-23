@@ -21,6 +21,7 @@ Glamware solves this by providing a **virtual try-on experience**, helping users
 
 ---
 
+
 ## 📱 App Screens
 
 ### Avatar Screen
@@ -34,9 +35,11 @@ Glamware solves this by providing a **virtual try-on experience**, helping users
 
 ---
 
+
 ## 📽️ Demo Video
 
 👉 https://www.linkedin.com/in/mitali-khamkar/
+
 
 ## 🛠️ Tech Stack
 - **Frontend:** React Native (Expo)
@@ -45,6 +48,7 @@ Glamware solves this by providing a **virtual try-on experience**, helping users
 - **Storage:** AsyncStorage
 - **3D Rendering:** GLB Models
   
+
 
 ## ⚙️ Project Structure
 
@@ -67,3 +71,4 @@ Contains GLB models used for avatar and clothing rendering.
 To view them, download and open using tools like Blender or any GLB viewer.
 
 > Note: To run the complete project, backend setup and assets integration are required.
+> Note: The frontend repository currently contains UI previews and project overview. Full implementation details are part of the development environment.
