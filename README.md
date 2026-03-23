@@ -40,6 +40,7 @@ Glamware solves this by providing a **virtual try-on experience**, helping users
 
 👉 https://www.linkedin.com/in/mitali-khamkar/
 
+---
 
 ## 🛠️ Tech Stack
 - **Frontend:** React Native (Expo)
@@ -66,9 +67,11 @@ Handles API, authentication, and data management.
 👉 https://github.com/mitalikhamkar/glamware-assets  
 Contains GLB models used for avatar and clothing rendering.
 
-## 🧊 3D Models Note
+### 🧊 3D Models Note
 3D assets are in `.glb` format and cannot be previewed directly on GitHub.  
 To view them, download and open using tools like Blender or any GLB viewer.
+
+---
 
 > Note: To run the complete project, backend setup and assets integration are required.
 > 
