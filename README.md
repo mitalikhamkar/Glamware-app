@@ -34,6 +34,10 @@ Glamware solves this by providing a **virtual try-on experience**, helping users
 
 ---
 
+## 📽️ Demo Video
+
+👉 https://www.linkedin.com/in/mitali-khamkar/
+
 ## 🛠️ Tech Stack
 - **Frontend:** React Native (Expo)
 - **Backend:** Node.js, Express.js
