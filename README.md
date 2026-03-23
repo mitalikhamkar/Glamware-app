@@ -54,17 +54,24 @@ Glamware solves this by providing a **virtual try-on experience**, helping users
 
 ---
 
-## ⚙️ Installation & Setup
+## ⚙️ Project Structure
 
-```bash
-# Clone the repository
-git clone https://github.com/mitalikhamkar/glamware-app
+This project is organized into multiple repositories:
 
-# Navigate to project
-cd glamware-app
+### 📱 Mobile App (Frontend)
+👉 https://github.com/mitalikhamkar/Glamware-app  
+Contains UI design, app flow, and project overview.
 
-# Install dependencies
-npm install
+### 🔧 Backend Server
+👉 https://github.com/mitalikhamkar/glamware-backend  
+Handles API, authentication, and data management.
 
-# Start the app
-npx expo start
+### 🎨 3D Assets
+👉 https://github.com/mitalikhamkar/glamware-assets  
+Contains GLB models used for avatar and clothing rendering.
+
+## 🧊 3D Models Note
+3D assets are in `.glb` format and cannot be previewed directly on GitHub.  
+To view them, download and open using tools like Blender or any GLB viewer.
+
+> Note: To run the complete project, backend setup and assets integration are required.
