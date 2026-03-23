@@ -24,13 +24,13 @@ Glamware solves this by providing a **virtual try-on experience**, helping users
 ## 📱 App Screens
 
 ### Avatar Screen
-![Avatar](./avatar.jpeg)
+(./avatar.jpeg)
 
 ### Category Selection
-![Category](./category.jpeg)
+(./categorize.jpeg)
 
 ### Wardrobe
-![Wardrobe](./wardrobe.jpeg)
+(./wardrobe.jpeg)
 
 ---
 
