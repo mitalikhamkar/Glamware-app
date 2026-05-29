@@ -67,6 +67,9 @@ Handles API, authentication, and data management.
 👉 https://github.com/mitalikhamkar/glamware-assets  
 Contains GLB models used for avatar and clothing rendering.
 
+### APK file of Glamware
+https://drive.google.com/file/d/13FktusnJyjwBuCW7rIHNEMRoeptUEWVV/view?usp=drive_link
+you can download from here
 ### 🧊 3D Models Note
 3D assets are in `.glb` format and cannot be previewed directly on GitHub.  
 To view them, download and open using tools like Blender or any GLB viewer.
